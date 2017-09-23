@@ -1,0 +1,5 @@
+# ignore dependencies files that are in "node_modules" directory
+**/node_modules
+
+# ignore source files
+jeday7/
