@@ -3,3 +3,12 @@
 
 # ignore source files
 jeday7/
+
+# ignore start template
+optimizedhtml-start-template-master/
+
+#ignore .zip files
+*.zip
+
+#ignore questions folder
+questions/
